@@ -70,6 +70,48 @@ esto es una seccion de ejemplo para enlace interno
 ## Menciones a personas y equipos 
 @Aleexraamos
 
+ENLAZO UNA NOTA AL PIE[^1]
+
+enlazo otra nota al pie [^nota]
+
+[^] Esta es la nota al pie
+
+[^nota] esta e sotra nota l pie
+
+
+
+| Columna 1 | Columna 2 | Columna 3 |
+| ---       | ---       | ---       |
+| Dato 1    | Dato 2    | Dato 3    |
+
+
+| Alineación izq. | Centro   | Derecha |
+| :---            | :---:    | ---:    |
+| Dato 1          | Dato 2   | Dato 3  |
+
+
+
+<details>
+  <summary> Este es el resumen de la seccion desplegable </summary>
+  hola esto es
+  
+</details>
+
+<details>
+ <summary> Cual es la sintaxis Python para imprimir por la pantalla? </summary>
+  ```python
+  print( 'texto' )
+  ```
+</details>
+
+```mermaid
+graph TD;
+
+A-->B;
+A-->C;
+B-->D;
+C-->D;
+```
 
 
 
