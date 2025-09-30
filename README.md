@@ -114,5 +114,20 @@ C-->D;
 ```
 
 
+# AnalisiHeuristico
+
+## Ayuntamiento de Toro
+
+1. Visibilidad del estado del sistema: Esta inlcuido ya que mantiene informado al usuario de cada cosa que esta realizando.Por ejemplo en el apartado de identificarse.
+2. Relación entre el sistema y el mundo real: Cumple este requisito ya que usa un lenguaje nivel usuario que cualquiera puede entender.Esto lo encontramos en todos los textos y botones del programa
+3. Control y libertad del usuario:Cumple este apartado ya que en el mismo apartado para  registrarte o identificarte tienes un boton para volver atras y deshacer lo que has puesto.
+4. Consistencia y estándares:Este apartado lo cumple ya que tiene un apartado especifico para cada tramite. por ejemplo el apartado de tramites.
+5. Prevención de errores: Esto lo hacen mal y que cuando metes el correo no te indica ningun error.
+6. 
+
+
+
+
+
 
 
