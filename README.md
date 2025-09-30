@@ -123,7 +123,11 @@ C-->D;
 3. Control y libertad del usuario:Cumple este apartado ya que en el mismo apartado para  registrarte o identificarte tienes un boton para volver atras y deshacer lo que has puesto.
 4. Consistencia y estándares:Este apartado lo cumple ya que tiene un apartado especifico para cada tramite. por ejemplo el apartado de tramites.
 5. Prevención de errores: Esto lo hacen mal y que cuando metes el correo no te indica ningun error.
-6. 
+6. Reconocimiento antes que recuerdo: Esto no lo cumple ya que hay muchos elementos muy parecidos y es imposible identificarlos bien.
+7. Flexibilidad y eficiencia de uso:No hay flexibilidad, es todo para todos.
+8. Estética y diseño minimalista: naada en general, demasiada informacion. Esta muy cargada.
+9. Ayudar a los usuarios a reconocer y diagnosticar errores: en nigun momento te aparecen mensajes de error que el usuario pueda identificar para cambiar.
+10. Ayuda y documentación: si, hay pestañas de ayuda y para informar de errores
 
 
 
